@@ -4,5 +4,6 @@ class helloWorldJenkins
 	{
 		System.out.println("Welcome to Jenkins");
 		System.out.println("Git Example");
+		System.out.println("JEnkins Example");
 	}
 }
